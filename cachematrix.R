@@ -1,4 +1,4 @@
-#####Cache Inverse of Matrix#####
+### Completed Cache Inverse of Matrix file - Emily###
 
 ## Part 1
 # set up a function 'makeMatrix' that will store other functions in the cache
@@ -31,7 +31,7 @@ makeMatrix <- function(x = matrix()) {
     # 'makeMatrix' returns a list of all four functions, where the first object 
     # of the list is 'set', second object of list is 'get', 3rd object is 
     # 'setinverse', and 4th is 'getinverse'. 
-   
+    
 } 
 # we do all this so that when we assign makeMatrix, the object will
 # have all four functions, so that they can be called later in cacheinverse
